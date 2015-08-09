@@ -1,0 +1,4 @@
+package: posix_ipc
+script:
+  - conda build .
+build_targets: conda
